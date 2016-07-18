@@ -1,0 +1,104 @@
+2.0.6a
+- Node Context to move nodes to SubStateMachine.
+- Node Context to move nodes to ParentStateMachine.
+- Click to create variable in inspector if missing
+- Auto assign Owner as default for SharedPersistant FsmGameObject 
+- QualitySettings actions
+
+2.0.6
+- SetAnimationClip action for mecanim.
+- Fixed Translate action without deltaTime.
+- SetProperty was not recognizing Transform as Object
+- RectTransform actions
+- Changing variable name does not reset reference in action/condition
+- GameObject for OverrideVariables
+- Fixed changing variables in inspector
+- Fixed Debug.DrawLine/DrawRay SharedPersistant attribute was missing.
+- Fixed NavMeshAgent Stop for unity 5, stops immediately when stopUpdates is set to true.
+- Changed unity_5 version checks to support all unity 5 versions.
+- New Addon: DOTween
+- New Addon: Energy Bar Toolkit
+- Updated Addon: Photon Cloud to v1.58
+ 
+2.0.5
+- Photon Cloud simple ai example
+- Copy All actions/conditions using context click on the list in inspector
+- Fixed serialization of OverrideVariables when creating prefabs.
+- Improved Pick action.
+- Fixed AndroidInput preventing from build on other platforms
+- Fixed OverlapSpehere action -> target is not required
+- Transitions are reorderable
+- MoveInFormation action for NavMeshAgent
+- Updated A* Support package(Extended Move action).
+- Updated Default Examples(Troll was missing)
+- Impoved Raycast action.
+- Simple example for A* addon.
+- OverrideVariables helper.
+- Fix for OnClick condition Type `Button' does not contain a definition for `onClick'
+- SetEnabled action for classes extending from Behaviour
+- ComponentAttribute can be specified with Type-> will only list components that extend from this Type.
+- AndroidInput actions(http://docs.unity3d.com/ScriptReference/AndroidInput.html)
+- ICodeBehaviour inspector information(StateMachines, States, Actions and Variables count)
+- ICodeBehaviour inspector quick edit for variables.
+
+
+2.0.4
+- Display shared variable names that will be paste.
+- Fixed Renderer actions
+- Copy/Paste of multiple nodes and shared variables
+- IsObjectNull condition
+- Enable/Disable shortcuts in preferences
+- Setup custom shortcuts in Tools/Setup Shortcuts
+- OnUnityEvent remove on exit.
+- SendEventToArray action.
+- Some actions extended to be able to use a FsmGameObject for position.
+
+2.0.3
+- Fixed unity 5 warnings
+- Created State Machines using the editor toolbar had no Owner variable.
+- Fixed rigidbody actions, call was not removed from proxy.
+- Default examples update(smooth of ik scenes)
+- Fixed Ik actions, call was not removed from proxy.
+- OnEnterState method for actions.
+- IsPointerOverGameObject condition
+- ICodeMaster to hide/show components on a game object.
+- Fixed InstantiateRandom action
+- Random.RangeInt action
+- Photon Addon update
+- AddBehaviour action(Adds a new ICodeBehaviour and sets the state machine.)
+- gameObject.AddBehaviour(StateMachine stateMachine, int group, bool replaceIfExists) overload method 
+- Fixed CopyFields for ScriptableObjects.
+- SetCursorLockMode and SetCursorVisible action
+- GetElement action for array.(Gets element by index)
+- SetConstraints action for rigidbody.
+- GetVariable action to get a variable from other StateMachine
+- MouseLook action based on Standard Assets
+- SmoothMouseLook action based on Wiki
+- MonoBehaviour script converter help editor
+- Math int actions (ClampInt,DivideInt,MultiplyInt,SubtractInt,SumInt)
+
+2.0.2
+- SetVariable from script accepts AssignableFrom of variable type.
+- Unity5 AddComponent fix
+- GetObjectProperty action to get properties from UnityEngine.Object
+- SetObjectProperty action to set properties on UnityEngine.Object
+- AnyState was not switching back when switching from a sub state machine.
+- ToString action, converts a variable of type to a string.
+- RestartState action, useful for Sequence states.
+- VariableChanchedEvent for FsmVariables to access from custom scripts.
+- Added IsFinished condition for Sequence execution.
+- Calling NavMeshAgent.Stop() requires a NavMeshAgent.Resume(), when setting destination again in unity5. 
+- Added ICodeTrigger, that enables or disables components within range using SphereCollider as trigger.
+- GetProperty supports Arrays and Lists
+- Removed previous version, is availible on request.
+
+2.0.1
+- Welcome Window was shown even if "Show at Startup" was unchecked
+- NavMeshAgent action Wanter throw a NullReferenceException, because the agent was not assigned.
+- Unity 5 support
+
+2.0.0
+- Sub State Machines
+- States as Sequences
+- Error Console
+- Improved Performance

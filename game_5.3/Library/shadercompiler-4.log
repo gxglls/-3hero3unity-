@@ -1,0 +1,143 @@
+Base path: D:/unity3d/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-4-12012
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=1 insize=898 outsize=81 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7115 outsize=616 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7115 outsize=2087 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7115 outsize=6295 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=7115 outsize=5566 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4847 outsize=955 kw=POINT ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (64): 'vert': output parameter 'o' not completely initialized
+  error: 1 plat 8 at (84): implicit truncation of vector type
+  api=8 type=0 insize=4847 outsize=0 kw=DIRECTIONAL ok=0
+Cmd: compileSnippet
+  api=1 type=0 insize=4847 outsize=974 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4847 outsize=1512 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4847 outsize=4134 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4847 outsize=6005 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4847 outsize=4207 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4847 outsize=3866 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6012 outsize=995 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6012 outsize=1640 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6012 outsize=2130 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=6012 outsize=8889 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6012 outsize=4859 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3811 outsize=5525 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3811 outsize=1346 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3811 outsize=3777 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3811 outsize=3687 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3811 outsize=1210 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3811 outsize=1590 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3811 outsize=4028 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3811 outsize=1271 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3811 outsize=5525 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5336 outsize=468 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=5336 outsize=216 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5336 outsize=2566 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5336 outsize=1688 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=5336 outsize=430 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=5336 outsize=2430 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2853 outsize=731 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2853 outsize=3502 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2853 outsize=3200 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2853 outsize=431 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2853 outsize=847 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2853 outsize=3175 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2853 outsize=3267 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2853 outsize=961 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2853 outsize=2655 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2853 outsize=605 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2853 outsize=649 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2853 outsize=2005 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1770 outsize=308 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1770 outsize=2040 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1381 outsize=462 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2154 outsize=425 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2154 outsize=2584 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1788 outsize=2430 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2219 outsize=425 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2219 outsize=2584 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1852 outsize=331 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=924 outsize=1690 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=924 outsize=1113 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1329 outsize=186 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1329 outsize=1682 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1252 outsize=246 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1237 outsize=1950 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1237 outsize=1690 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2284 outsize=2958 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2284 outsize=3494 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=882 outsize=1690 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1051 outsize=158 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1051 outsize=2015 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1917 outsize=596 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
+
+
+Quitting shader compiler process

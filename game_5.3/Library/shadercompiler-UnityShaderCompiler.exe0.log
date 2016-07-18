@@ -1,0 +1,34 @@
+Base path: D:/esp/Editor/Data
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2317 outsize=849 ok=1
+Cmd: preprocess
+  insize=1571 outsize=492 ok=1
+Cmd: preprocess
+  insize=2330 outsize=478 ok=1
+Cmd: preprocess
+  insize=1964 outsize=478 ok=1
+Cmd: preprocess
+  insize=2810 outsize=895 ok=1
+Cmd: preprocess
+  insize=2443 outsize=893 ok=1
+Cmd: preprocess
+  insize=1452 outsize=830 ok=1
+Cmd: preprocess
+  insize=2684 outsize=849 ok=1
+Cmd: preprocess
+  insize=1920 outsize=893 ok=1
+Cmd: preprocess
+  insize=1428 outsize=478 ok=1
+Cmd: preprocess
+  insize=1784 outsize=849 ok=1
+Cmd: preprocess
+  insize=2474 outsize=494 ok=1
+Cmd: preprocess
+  insize=1436 outsize=840 ok=1
+Cmd: preprocess
+  insize=1464 outsize=884 ok=1
+Cmd: preprocess
+  insize=1232 outsize=483 ok=1
+Cmd: preprocess
+  insize=2107 outsize=492 ok=1

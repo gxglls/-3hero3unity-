@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: e7235dc986af76a4299092d2cc52f957
+timeCreated: 1457753115
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: QQ_0
+    21300002: QQ_1
+    21300004: QQ_2
+    21300006: QQ_3
+    21300008: QQ_4
+    21300010: QQ_5
+    21300012: QQ_6
+    21300014: QQ_7
+    21300016: QQ_8
+    21300018: QQ_9
+    21300020: QQ_10
+    21300022: QQ_11
+    21300024: QQ_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: QQ_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 155
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 51.5}
+        - {x: -49.5, y: 27.5}
+        - {x: -52.5, y: 17.5}
+        - {x: -52.5, y: -51.5}
+        - {x: 29.5, y: -51.5}
+        - {x: 52.5, y: -20.5}
+        - {x: 52.5, y: 42.5}
+        - {x: 34.5, y: 51.5}
+    - name: QQ_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 220
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25.5}
+        - {x: -19, y: 14.5}
+        - {x: -19, y: -13.5}
+        - {x: -9, y: -25.5}
+        - {x: 19, y: -25.5}
+        - {x: 19, y: 22.5}
+        - {x: 17, y: 25.5}
+    - name: QQ_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 187
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 35.5}
+        - {x: -68.5, y: 31.5}
+        - {x: -68.5, y: -35.5}
+        - {x: 68.5, y: -35.5}
+        - {x: 68.5, y: 34.5}
+        - {x: 67.5, y: 35.5}
+      - - {x: -68.5, y: 35.5}
+        - {x: -68.5, y: 9.5}
+        - {x: -64.5, y: 9.5}
+        - {x: -58.5, y: 17.5}
+        - {x: -58.5, y: 33.5}
+        - {x: -60.5, y: 35.5}
+    - name: QQ_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 188
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 35}
+        - {x: -53, y: -35}
+        - {x: 41, y: -35}
+        - {x: 53, y: -29}
+        - {x: 53, y: 25}
+        - {x: 47, y: 35}
+    - name: QQ_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 157
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 57.5}
+        - {x: -51, y: 54.5}
+        - {x: -51, y: -35.5}
+        - {x: -24, y: -57.5}
+        - {x: 51, y: -57.5}
+        - {x: 51, y: 28.5}
+        - {x: 25, y: 57.5}
+    - name: QQ_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: QQ_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 61
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -17, y: 12.5}
+        - {x: -17, y: -9.5}
+        - {x: -14, y: -17.5}
+        - {x: -12, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 17, y: -8.5}
+        - {x: 17, y: 7.5}
+        - {x: 12, y: 18.5}
+    - name: QQ_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 93
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 27}
+        - {x: -19.5, y: 18}
+        - {x: -19.5, y: -20}
+        - {x: -16.5, y: -27}
+        - {x: 19.5, y: -27}
+        - {x: 19.5, y: 18}
+        - {x: 7.5, y: 27}
+    - name: QQ_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 60
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 42.5}
+        - {x: -21, y: 39.5}
+        - {x: -52, y: 15.5}
+        - {x: -52, y: -28.5}
+        - {x: -49, y: -39.5}
+        - {x: -33, y: -42.5}
+        - {x: 46, y: -42.5}
+        - {x: 52, y: -21.5}
+        - {x: 52, y: 25.5}
+        - {x: 22, y: 42.5}
+    - name: QQ_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 62
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 21.5}
+        - {x: 38.5, y: 29.5}
+        - {x: 24.5, y: 33.5}
+        - {x: -30.5, y: 33.5}
+        - {x: -50.5, y: 21.5}
+        - {x: -50.5, y: -29.5}
+        - {x: -44.5, y: -33.5}
+        - {x: 50.5, y: -33.5}
+        - {x: 50.5, y: 13.5}
+    - name: QQ_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 60
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 43.5}
+        - {x: -51, y: 42.5}
+        - {x: -51, y: -43.5}
+        - {x: 38, y: -43.5}
+        - {x: 51, y: -9.5}
+        - {x: 51, y: 43.5}
+    - name: QQ_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 16.5}
+        - {x: 24.5, y: 30.5}
+        - {x: -33.5, y: 30.5}
+        - {x: -46.5, y: 17.5}
+        - {x: -52.5, y: -3.5}
+        - {x: -52.5, y: -29.5}
+        - {x: -50.5, y: -30.5}
+        - {x: 29.5, y: -30.5}
+        - {x: 49.5, y: -24.5}
+        - {x: 52.5, y: -20.5}
+    - name: QQ_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

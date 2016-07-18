@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 33b3320bd5710ec47956404d3431c31b
+timeCreated: 1457875813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: infantry_0
+    21300002: infantry_1
+    21300004: infantry_2
+    21300006: infantry_3
+    21300008: infantry_4
+    21300010: infantry_5
+    21300012: infantry_6
+    21300014: infantry_7
+    21300016: infantry_8
+    21300018: infantry_9
+    21300020: infantry_10
+    21300022: infantry_11
+    21300024: infantry_12
+    21300026: infantry_13
+    21300028: infantry_14
+    21300030: infantry_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: infantry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 67
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 99}
+        - {x: -33.5, y: 5}
+        - {x: -24.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 33.5, y: 48}
+        - {x: 4.5, y: 99}
+    - name: infantry_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 384
+        width: 63
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 98}
+        - {x: -31.5, y: 1}
+        - {x: -30.5, y: 1}
+        - {x: -17.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 68}
+        - {x: 14.5, y: 98}
+    - name: infantry_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 72
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 95}
+        - {x: -36, y: 0}
+        - {x: 36, y: 0}
+        - {x: 36, y: 73}
+        - {x: 20, y: 95}
+    - name: infantry_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 288
+        width: 65
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 95}
+        - {x: -32.5, y: 93}
+        - {x: -32.5, y: 37}
+        - {x: -13.5, y: 42}
+        - {x: -11.5, y: 44}
+        - {x: -17.5, y: 26}
+        - {x: -32.5, y: 10}
+        - {x: -32.5, y: 0}
+        - {x: 32.5, y: 0}
+        - {x: 32.5, y: 71}
+        - {x: 14.5, y: 95}
+    - name: infantry_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 99}
+        - {x: -11, y: 91}
+        - {x: -9, y: 86}
+        - {x: -12, y: 92}
+        - {x: -27, y: 91}
+        - {x: -32, y: 90}
+        - {x: -36, y: 86}
+        - {x: -36, y: 64}
+        - {x: -27, y: 40}
+        - {x: -13, y: 44}
+        - {x: -11, y: 46}
+        - {x: -12, y: 44}
+        - {x: -30, y: 30}
+        - {x: -36, y: 15}
+        - {x: -36, y: 0}
+        - {x: 35, y: 0}
+        - {x: 36, y: 1}
+        - {x: 36, y: 55}
+        - {x: 16, y: 99}
+    - name: infantry_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 191
+        width: 67
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 93}
+        - {x: 1.5, y: 96}
+        - {x: -19.5, y: 96}
+        - {x: -33.5, y: 94}
+        - {x: -33.5, y: 1}
+        - {x: -23.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 33.5, y: 27}
+        - {x: 14.5, y: 75}
+    - name: infantry_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 75
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 71}
+        - {x: -29.5, y: 35}
+        - {x: -15.5, y: 41}
+        - {x: -10.5, y: 43}
+        - {x: -11.5, y: 41}
+        - {x: -15.5, y: 34}
+        - {x: -14.5, y: 28}
+        - {x: -37.5, y: 11}
+        - {x: -37.5, y: 3}
+        - {x: -32.5, y: 0}
+        - {x: 37.5, y: 0}
+        - {x: 37.5, y: 50}
+        - {x: 29.5, y: 81}
+        - {x: 7.5, y: 96}
+        - {x: -9.5, y: 96}
+        - {x: -37.5, y: 87}
+    - name: infantry_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 95
+        width: 68
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 95}
+        - {x: -34, y: 92}
+        - {x: -34, y: 37}
+        - {x: -21, y: 40}
+        - {x: -14, y: 42}
+        - {x: -12, y: 44}
+        - {x: -15, y: 27}
+        - {x: -34, y: 6}
+        - {x: -34, y: 0}
+        - {x: 34, y: 0}
+        - {x: 34, y: 87}
+        - {x: 23, y: 95}
+    - name: infantry_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 95
+        width: 59
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 99}
+        - {x: -29.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 29.5, y: 37}
+        - {x: 25.5, y: 81}
+        - {x: 8.5, y: 99}
+    - name: infantry_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 95
+        width: 58
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 96}
+        - {x: -29, y: 96}
+        - {x: -29, y: 2}
+        - {x: -13, y: 0}
+        - {x: 29, y: 0}
+        - {x: 29, y: 48}
+        - {x: 25, y: 76}
+    - name: infantry_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 95
+        width: 56
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 97}
+        - {x: -28, y: 96}
+        - {x: -28, y: 1}
+        - {x: -16, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 76}
+        - {x: 24, y: 97}
+    - name: infantry_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 95
+        width: 56
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 96}
+        - {x: -28, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 83}
+        - {x: 24, y: 96}
+    - name: infantry_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 95
+        width: 53
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 98}
+        - {x: -26.5, y: 95}
+        - {x: -26.5, y: 71}
+        - {x: -24.5, y: 60}
+        - {x: -20.5, y: 39}
+        - {x: -8.5, y: 41}
+        - {x: 0.5, y: 26}
+        - {x: -15.5, y: 18}
+        - {x: -26.5, y: 11}
+        - {x: -26.5, y: 2}
+        - {x: -14.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 26.5, y: 82}
+        - {x: 15.5, y: 98}
+    - name: infantry_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 96}
+        - {x: -38, y: 0}
+        - {x: 38, y: 0}
+        - {x: 38, y: 94}
+        - {x: 25, y: 96}
+    - name: infantry_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 70
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 94}
+        - {x: -35, y: 86}
+        - {x: -35, y: 2}
+        - {x: -25, y: 0}
+        - {x: 28, y: 0}
+        - {x: 35, y: 4}
+        - {x: 35, y: 57}
+        - {x: 17, y: 94}
+    - name: infantry_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 94}
+        - {x: -31, y: 0}
+        - {x: 31, y: 0}
+        - {x: 31, y: 20}
+        - {x: 21, y: 73}
+        - {x: 9, y: 94}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

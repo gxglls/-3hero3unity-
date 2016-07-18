@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\SrcManager.cs">
+    <Files>
+      <File FileName="Assets\script\Move.cs" Line="94" Column="23" />
+      <File FileName="Assets\script\Collect.cs" Line="22" Column="1" />
+      <File FileName="Assets\script\battle\InitBoard.cs" Line="72" Column="36" />
+      <File FileName="Assets\script\battle\chess.cs" Line="101" Column="63" />
+      <File FileName="Assets\script\Chess\TileControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\battle\MyTile.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\SrcManager.cs" Line="8" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
